@@ -1,0 +1,29 @@
+/* you can add to or change this. */
+
+.card {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  display: inline-block;
+}
+
+
+/* body{
+   background-color: aqua;
+} */
+
+#game {
+  width: 800px;
+}
+
+.hidden{
+  background-color: white !important;
+}
+
+#score{
+  font-size: 50px;
+  border: black;
+  color: black;
+  margin:5px;
+}
